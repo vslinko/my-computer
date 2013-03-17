@@ -13,5 +13,5 @@ $ git clone git@github.com:vslinko/my-computer.git
 $ cd my-computer
 $ bundle install
 $ librarian-chef install
-$ sudo chef-solo -c solo.rb -o "role[my_computer]"
+$ chef-solo -c solo.rb -o "role[my_computer]"
 ```

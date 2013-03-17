@@ -1,0 +1,5 @@
+{
+  "id": "package_control",
+  "name": "Package Control",
+  "repository": "git://github.com/wbond/sublime_package_control.git"
+}

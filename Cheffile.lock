@@ -22,6 +22,12 @@ SITE
     yum (2.1.0)
     zsh (1.0.0)
 
+PATH
+  remote: my_computer
+  specs:
+    my_computer (0.0.0)
+
 DEPENDENCIES
+  my_computer (>= 0)
   vslinko (>= 0)
 

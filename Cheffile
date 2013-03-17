@@ -6,3 +6,5 @@ site "http://community.opscode.com/api/v1"
 %w{ vslinko }.each do |cb|
   cookbook cb
 end
+
+cookbook "my_computer", :path => "my_computer"
